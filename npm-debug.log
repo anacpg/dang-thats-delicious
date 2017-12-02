@@ -19,9 +19,9 @@
 10 error You can get their info via:
 10 error     npm owner ls dang-thats-delicious
 10 error There is likely additional logging output above.
-11 error System Darwin 16.7.0
+11 error System Darwin 17.2.0
 12 error command "/Users/anacristinapg/.nvm/v0.10.36/bin/node" "/Users/anacristinapg/.nvm/v0.10.36/bin/npm" "start"
-13 error cwd /Users/anacristinapg/Projects/Learn-Node/dang-thats-delicious
+13 error cwd /Users/anacristinapg/Projects/dang-thats-delicious
 14 error node -v v0.10.36
 15 error npm -v 1.4.28
 16 error code ELIFECYCLE
